@@ -1,1 +1,1 @@
-# AI-avuksi-jokisimpukkakannan-tutkimisessa
+# Esimerkkirepo-jokivaakkukannan-tutkimisessa
